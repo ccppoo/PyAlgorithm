@@ -18,4 +18,4 @@ annotation  : source website and description of problem
 3. Pick one of them
 4. solve it, if not leave it on repo with file name adding (unsolved)
 
-# this project will cross proceeded with ccppoo/JavaAlgorithm
+this project will cross proceeded with ccppoo/JavaAlgorithm
