@@ -1,3 +1,6 @@
+## problem souce : https://programmers.co.kr/learn/courses/30/lessons/12979
+## solved : 2019 - 05 - 09 (Thur)
+
 def solution(n, stations, w):
     temp =1
     answer =0
@@ -59,6 +62,11 @@ def solution(n, stations, w):
         #또는 그 이상 넘어가는 경우 아무것도 안해도됨
 
     return answer
+
+'''
+문제 풀때 조건 잘 확인하고 풀 것!!!!
+인덱스가 0이 아니라 1부터 시작한다!!
+'''
 
 if __name__=='__main__':
      i = solution(11, [4,11], 1)
