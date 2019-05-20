@@ -1,4 +1,6 @@
 ## code source : https://leetcode.com/problems/minimum-time-difference/description/
+## 2019-05-21 (Mon) ...
+## solution is too slow and easy one
 
 # class Solution:
 #     def findMinDifference(self, timePoints: List[str]) -> int:
